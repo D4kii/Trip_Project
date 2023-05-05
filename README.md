@@ -1,2 +1,2 @@
 # Aplicativo de Viagens
-Projeto a ser desenvolvido para um melhor entendimento da linguagem de programação, para desenvolvimento android, Kotlin.
+Projeto a para aprendizado da linguagem de programação Kotlin, para desenvolvimento android.
